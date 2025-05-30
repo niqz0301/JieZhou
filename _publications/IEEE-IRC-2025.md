@@ -2,7 +2,7 @@
 title: "Asymptotic performance of low rank adaptive normalized matched filter test under large dimensional regime"
 collection: publications
 category: conferences
-permalink: /publication/IEEE-IEC-2025
+permalink: /publication/IEEE-IRC-2025
 excerpt: 'This paper is awarded <i>Student Papaer Award Finalist<i>.'
 date: 2025-05-04
 venue: '2025 IEEE International Radar Conference'
