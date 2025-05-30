@@ -3,7 +3,7 @@ title: "Asymptotic performance of low rank adaptive normalized matched filter te
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is awarded <i>Student Papaer Award Finalist<i}.'
+excerpt: 'This paper is awarded <i>Student Papaer Award Finalist<i>.'
 date: 2025-05-04
 venue: '2025 IEEE International Radar Conference'
 citation: 'Jie Zhou, Junhao Xie, Jiaqi Chen. Asymptotic performance of low rank adaptive normalized matched filter test under large dimensional regime. <i>2025 IEEE International Radar Conference</i>, Paper No. 1571099367, May 5-9, Atlanta, USA.'
