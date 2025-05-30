@@ -1,5 +1,5 @@
 ---
-title: "Performance Analysis of Linearly Combined Order Statistics CFAR Processors in Heterogeneous Background."
+title: "Performance Analysis of Linearly Combined Order Statistics CFAR Processors in Heterogeneous Background"
 collection: publications
 category: manuscripts
 permalink: /publication/IEEE-TAES-2024-Performance
