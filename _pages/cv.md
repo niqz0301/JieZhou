@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Radar Detection Theory and Random Matrix Theory, Harbin Institute of Technology, 2022-2026 (expected). Supervisor: Prof. Junhao Xie
-* M.S., Harbin Institute of Technology, 2021-2022. Supervisor: Prof. Junhao Xie
+* Ph.D in Radar Detection Theory and Random Matrix Theory, Harbin Institute of Technology, 2022-2026 (expected). Supervisor: Prof. Junhao Xie[https://homepage.hit.edu.cn/xiejunhao?lang=zh]
+* M.S., Harbin Institute of Technology, 2021-2022. Supervisor: Prof. Junhao Xie(https://homepage.hit.edu.cn/xiejunhao?lang=zh)
 * B.S., Harbin Institute of Technology, 2017-2021
 
 Work experience
