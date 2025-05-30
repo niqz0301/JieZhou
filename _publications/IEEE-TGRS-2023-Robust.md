@@ -2,7 +2,7 @@
 title: "Robust CFAR Detector Based on KLQ Estimator for Multiple-Target Scenario"
 collection: publications
 category: manuscripts
-permalink: /publication/IEEE-TGRS-2024-Robust
+permalink: /publication/IEEE-TGRS-2023-Robust
 excerpt: 'We find a more efficient quantile estimator, i.e., Kaigh–Lachenbruch quantile (KLQ) estimator, to construct a robust CFAR detector. The superiority of KLQ-CFAR is particularly reflected in multiple-target scenario.'
 date: 2023-05-11
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
