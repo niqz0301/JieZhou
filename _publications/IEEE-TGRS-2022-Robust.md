@@ -6,7 +6,7 @@ permalink: /publication/IEEE-TGRS-2022-Robust
 excerpt: 'In this article, the concept of quantile is introduced and elaborately related to the truncation depth, based on which quantile truncated statistics (QTS) is put forward. The QTS gives a reasonable explanation of truncation depth and makes the selection of truncation depth well-founded and controllable. In addition, maximum likelihood (ML) estimation based on QTS (QTS-MLE) for the probability density function (pdf) parameters is derived.'
 date: 2022-09-14
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
-paperurl: 'https://ieeexplore.ieee.org/document/10123069'
+paperurl: 'https://ieeexplore.ieee.org/document/9889740'
 citation: 'Jie Zhou, Junhao Xie, Xingxing Liao and Chang Sun. Robust Sliding Window CFAR Detection Based on Quantile Truncated Statistics. <i>IEEE Transactions on Geoscience and Remote Sensing<i>, vol. 60, pp. 1-23, 2022, Art no. 5117823.'
 ---
 
