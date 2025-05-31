@@ -12,7 +12,6 @@ My research interest includes Radar target detection, random matrix theory (RMT)
 
 I am very fortunate to be advised by [Prof. Junhao Xie](https://homepage.hit.edu.cn/xiejunhao?lang=zh). 
 
-You can find my CV here: [Jie Zhou's CV](https://niqz0301.github.io/JieZhou/cv/).
-[Github](https://github.com/niqz0301) / [IEEE Homepage](https://ieeexplore.ieee.org/author/37089550338)
+You can find my CV here: [Jie Zhou's CV](https://niqz0301.github.io/JieZhou/cv/) / [IEEE Homepage](https://ieeexplore.ieee.org/author/37089550338).
 
 If you have any questions, please contact me via email: 22B905037@stu.hit.edu.cn.
