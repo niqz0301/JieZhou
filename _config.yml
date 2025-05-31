@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jie Zhou / Personal Homepage"
+title                    : "Jie Zhou / 周杰"
 title_separator          : "-"
 name                     : &name "Jie Zhou"
 description              : &description "A third-year Phd student"
